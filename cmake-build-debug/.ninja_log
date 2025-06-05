@@ -1,3 +1,15 @@
 # ninja log v6
-2	3008	1749138986332949432	CMakeFiles/TaxiRoutes.dir/main.cpp.o	fd80090653ecc3b3
+1	4685	1749145611535166590	CMakeFiles/TaxiRoutes.dir/main.cpp.o	fd80090653ecc3b3
+1	2783	1749145611536747735	CMakeFiles/TaxiRoutes.dir/Display.cpp.o	6db91bdbcfdf77c7
 3008	3088	1749138989339624745	TaxiRoutes	c84ad0353995010
+1	15	1749145611536616719	CMakeFiles/TaxiRoutes.dir/TestClass.cpp.o	60c99bf9ee5c7f52
+2	3302	1749146931375702176	CMakeFiles/TaxiRoutes.dir/Taxi.cpp.o	e54c58d00583ec58
+2	3651	1749146931375568061	CMakeFiles/TaxiRoutes.dir/Route.cpp.o	769936381031cb17
+2	3781	1749146931375442956	CMakeFiles/TaxiRoutes.dir/FileIO.cpp.o	399ae6985d426594
+2	4771	1749146931374875111	CMakeFiles/TaxiRoutes.dir/Display.cpp.o	6db91bdbcfdf77c7
+2	6145	1749146931375827417	CMakeFiles/TaxiRoutes.dir/UserIO.cpp.o	d40a615a6c92cb88
+1	881	1749147128749873790	CMakeFiles/TaxiRoutes.dir/main.cpp.o	fd80090653ecc3b3
+1	2833	1749147128750509808	CMakeFiles/TaxiRoutes.dir/UserIO.cpp.o	d40a615a6c92cb88
+2833	2922	1749147131581901521	TaxiRoutes	a6a48f93580bac96
+1	821	1749147753084594646	CMakeFiles/TaxiRoutes.dir/main.cpp.o	fd80090653ecc3b3
+821	907	1749147753904601812	TaxiRoutes	a6a48f93580bac96

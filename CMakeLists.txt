@@ -9,4 +9,11 @@ add_executable(TaxiRoutes main.cpp
         UserIO.h
         Display.h
         FileIO.h
+        TestClass.cpp
+        TestClass.h
+        Display.cpp
+        FileIO.cpp
+        Route.cpp
+        Taxi.cpp
+        UserIO.cpp
 )
