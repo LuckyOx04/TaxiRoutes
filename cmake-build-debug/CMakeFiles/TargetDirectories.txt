@@ -1,0 +1,3 @@
+/home/ivaylo/CLionProjects/TaxiRoutes/cmake-build-debug/CMakeFiles/TaxiRoutes.dir
+/home/ivaylo/CLionProjects/TaxiRoutes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivaylo/CLionProjects/TaxiRoutes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
